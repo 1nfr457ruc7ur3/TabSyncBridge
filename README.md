@@ -1,33 +1,50 @@
 # TabSyncBridge
 
-Private local-network tab sync and remote tab control for your own iPhone, Safari, Chromium-family browsers, and linked desktop setup.
+<p align="center">
+  <img src="https://indexridge.github.io/TabSyncBridge/tabsyncbridge-app-icon-1024.png" width="128" alt="TabSyncBridge Icon">
+</p>
 
-## Install
+<h3 align="center">Sync Safari & Chrome Tabs Together — No iCloud or Google Account</h3>
 
-- [Install TabSyncBridge on the App Store](https://apps.apple.com/us/app/tabsyncbridge/id6766262129)
-- [Add the Chromium companion from the Chrome Web Store](https://chromewebstore.google.com/detail/tabsyncbridge/fbhngbfbapkkhcdpijagknchlcmcfmgl)
-- [Open the install page](https://indexridge.github.io/TabSyncBridge/install)
+<p align="center">
+  Private local-network tab sync and remote tab control for your own iPhone, Safari, Chromium-family browsers, and linked desktop setup.
+</p>
 
-## What It Does
+<p align="center">
+  <a href="https://apps.apple.com/us/app/tabsyncbridge/id6766262129">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple" alt="Download on the App Store">
+  </a>
+  <a href="https://chromewebstore.google.com/detail/tabsyncbridge/fbhngbfbapkkhcdpijagknchlcmcfmgl">
+    <img src="https://img.shields.io/badge/Available_in the-Chrome_Web_Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Available in the Chrome Web Store">
+  </a>
+</p>
 
-- View tab titles from your own linked devices.
-- Send selected close-tab requests to the browser profile that owns the tab.
-- Use Safari workflows through the iOS app and Safari extension.
-- Use Chromium-family browser workflows through the Chromium extension and desktop bridge.
-- Keep the core sync loop on your own private local network without a cloud account.
+---
 
-## Public Pages
+## 🚫 Stop sending your tabs through the cloud
+
+Are you tired of signing into Google Sync on your Mac just to see your Chrome tabs on your iPhone? Do you want to use Safari on iOS and Edge on Windows without jumping through hoops?
+
+**TabSyncBridge** is the definitive private alternative to iCloud Tabs and Chrome Sync. It syncs your tabs locally over your own Wi-Fi. 
+
+- **No Cloud Accounts:** No signing into third-party sync servers.
+- **Cross-Browser:** Sync between Safari (iOS) and Chrome, Edge, Brave, Opera, Chromium (Desktop).
+- **Privacy-First:** Your tab titles, URLs, and device identifiers never leave your network.
+- **Remote Control:** Close a forgotten desktop tab straight from your iPhone.
+
+## 🚀 Quick Install (Free 3-Month Trial)
+
+1. [Download TabSyncBridge on the App Store](https://apps.apple.com/us/app/tabsyncbridge/id6766262129)
+2. [Add the Chromium companion from the Chrome Web Store](https://chromewebstore.google.com/detail/tabsyncbridge/fbhngbfbapkkhcdpijagknchlcmcfmgl)
+3. Follow the [Desktop bridge setup instructions](https://indexridge.github.io/TabSyncBridge/desktop-bridge-setup) to link your devices over Wi-Fi.
+
+## 📖 Learn More
 
 - [Marketing page](https://indexridge.github.io/TabSyncBridge/marketing)
-- [Private local tab sync](https://indexridge.github.io/TabSyncBridge/private-local-tab-sync)
-- [Chrome to iPhone tab sync](https://indexridge.github.io/TabSyncBridge/chrome-to-iphone-tab-sync)
+- [Sync tabs without a cloud account](https://indexridge.github.io/TabSyncBridge/sync-tabs-without-cloud)
+- [Why browser tab sync usually uses cloud accounts](https://indexridge.github.io/TabSyncBridge/why-browser-tab-sync-uses-cloud)
 - [Safari and Chromium tab sync](https://indexridge.github.io/TabSyncBridge/safari-chrome-tab-sync)
 - [Close remote tabs](https://indexridge.github.io/TabSyncBridge/close-remote-tabs)
-- [Desktop bridge setup](https://indexridge.github.io/TabSyncBridge/desktop-bridge-setup)
-- [Support](https://indexridge.github.io/TabSyncBridge/support)
-- [Privacy Policy](https://indexridge.github.io/TabSyncBridge/privacy)
-- [Terms of Use](https://indexridge.github.io/TabSyncBridge/terms)
-- [RSS feed](https://indexridge.github.io/TabSyncBridge/feed.xml)
-- [JSON feed](https://indexridge.github.io/TabSyncBridge/feed.json)
+- [Privacy Policy](https://indexridge.github.io/TabSyncBridge/privacy) | [Terms of Use](https://indexridge.github.io/TabSyncBridge/terms) | [Support](https://indexridge.github.io/TabSyncBridge/support)
 
-TabSyncBridge is £2.99 per month after a 3 month free trial. Purchases, renewals, cancellations, refunds, and restore purchases are handled by Apple through the App Store.
+*TabSyncBridge is £2.99 per month after a 3-month free trial. Purchases, renewals, cancellations, refunds, and restore purchases are handled by Apple through the App Store.*
