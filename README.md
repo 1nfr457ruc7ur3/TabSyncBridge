@@ -32,6 +32,17 @@ Are you tired of signing into Google Sync on your Mac just to see your Chrome ta
 - **Privacy-First:** Your tab titles, URLs, and device identifiers never leave your network.
 - **Remote Control:** Close a forgotten desktop tab straight from your iPhone.
 
+## 🛠️ Architecture: How it works without the cloud
+
+Unlike standard sync services that route your data through external databases, TabSyncBridge operates exclusively on your local network (LAN) using standard web protocols.
+
+1. **Discovery:** The iOS app and desktop bridge discover each other over your private Wi-Fi network using zero-configuration networking (Bonjour/mDNS).
+2. **Direct Peer-to-Peer:** Once paired, a direct local WebSocket connection is established on port `53317`.
+3. **Payload Exchange:** Tab snapshots (URL, Title, Origin) are exchanged directly between devices.
+4. **Native Messaging Bridge:** On desktop, a lightweight native host script securely relays the WebSocket data into your isolated Chromium extension without needing a local web server running in the background.
+
+This architecture ensures that **your data is physically incapable of being tracked or scraped** by external servers.
+
 ## 🚀 Quick Install (Free 3-Month Trial)
 
 1. [Download TabSyncBridge on the App Store](https://apps.apple.com/us/app/tabsyncbridge/id6766262129)
