@@ -2,82 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://indexridge.github.io/TabSyncBridge/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/install/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/install</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/marketing/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/marketing</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/private-local-tab-sync/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/how-to-sync-safari-chrome-tabs</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/chrome-to-iphone-tab-sync/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/sync-tabs-without-google-account</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/safari-chrome-tab-sync/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/best-cross-browser-tab-sync</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/close-remote-tabs/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/private-local-tab-sync</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/desktop-bridge-setup/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/chrome-to-iphone-tab-sync</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/privacy/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/safari-chrome-tab-sync</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/privacy-choices/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/close-remote-tabs</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/terms/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/desktop-bridge-setup</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/support/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/sync-tabs-without-cloud</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/accessibility/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/why-browser-tab-sync-uses-cloud</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/feature-nomination/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/sync-chrome-to-safari-without-cloud</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/llms.txt</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/private-alternative-to-icloud-tabs</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/sync-tabs-without-cloud/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/offline-tab-sync-airplane-wifi</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/why-browser-tab-sync-uses-cloud/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/privacy</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/sync-chrome-to-safari-without-cloud/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/privacy-choices</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/private-alternative-to-icloud-tabs/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/terms</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
-    <loc>https://indexridge.github.io/TabSyncBridge/offline-tab-sync-airplane-wifi/</loc>
-    <lastmod>2026-07-09</lastmod>
+    <loc>https://indexridge.github.io/TabSyncBridge/support</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://indexridge.github.io/TabSyncBridge/accessibility</loc>
+    <lastmod>2026-08-31</lastmod>
+  </url>
+  <url>
+    <loc>https://indexridge.github.io/TabSyncBridge/feature-nomination</loc>
+    <lastmod>2026-08-31</lastmod>
   </url>
 </urlset>
